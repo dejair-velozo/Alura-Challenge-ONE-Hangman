@@ -1,5 +1,5 @@
 var palavras = ["ALURA", "ORACLE", "HTML", "CSS", "PYTHON"];
-var palavraSecreta=palavras[Math.floor(Math.random()*palavras.length)];
+var palavraSecreta=palavras[Math.floor(Math.random(7)*palavras.length)];
 var erros=0;
 var acertos=0;
 var tentativas=[];
