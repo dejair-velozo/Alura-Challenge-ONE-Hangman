@@ -1,0 +1,63 @@
+
+.titulo {
+  padding: 15px;
+  width: 30vw;
+  margin: auto;
+  font-size: 23px;
+
+}
+
+.btn {
+  border: 0;
+  color: white;
+  font-weight: bold;
+  background-color: blue;
+  padding: 10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 0.5em;
+}
+
+.text-input {
+  border-radius: 0.5em;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  display: block;
+  padding: 0.5em;
+  width: 30%;
+  height: 50px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+header{
+  background-color: black;
+}
+
+.autor {
+  text-align: center;
+  color: white;
+  font-family: Arial, Verdana, sans-serif;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+.titulo{
+  color: white;
+  text-align: center;
+  font-family: Arial, Verdana, sans-serif;
+}
+
+.github{
+  margin-left: 655px;
+  margin-top: 10px;
+}
+
+body{
+  background: url(https://img.freepik.com/fotos-gratis/textura-da-parede-do-grunge_1194-6386.jpg?4&t=st=1645808836~exp=1645809436~hmac=163f0159f99d6a0192738832a6b17f803a720bd5c0db0f7f969a855be122fd72&w=740);
+}
+
+footer{
+  background-color: black;
+
+}
+
